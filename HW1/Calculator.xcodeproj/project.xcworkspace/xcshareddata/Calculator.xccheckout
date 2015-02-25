@@ -12,20 +12,24 @@
 	<dict>
 		<key>4B11EB0F77ECE97C3CE536977800EF33CF2AAB62</key>
 		<string>https://bitbucket.org/mjdunn7/csci3320.git</string>
+		<key>BB8CB28331A3CDC92A0DB619F599ED48F3C8F99E</key>
+		<string>https://github.com/mjdunn7/CSCI3320.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>HW1/Calculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4B11EB0F77ECE97C3CE536977800EF33CF2AAB62</key>
+		<string>../../../../Calculator</string>
+		<key>BB8CB28331A3CDC92A0DB619F599ED48F3C8F99E</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/mjdunn7/csci3320.git</string>
+	<string>https://github.com/mjdunn7/CSCI3320.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4B11EB0F77ECE97C3CE536977800EF33CF2AAB62</string>
+	<string>BB8CB28331A3CDC92A0DB619F599ED48F3C8F99E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>4B11EB0F77ECE97C3CE536977800EF33CF2AAB62</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Calculator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB8CB28331A3CDC92A0DB619F599ED48F3C8F99E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CSCI3320</string>
 		</dict>
 	</array>
 </dict>
